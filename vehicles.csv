@@ -1,0 +1,5 @@
+id,vehicle_type,model,color,model_year,base_price,optional_features,bed_type,roof_type
+I001,Sedan,SD111,White,2024,30000,,,
+I002,SUV,SV222,Red,2023,40000,"Enhanced Safety features,3000;Security,1000",,Standard Duty
+I003,Truck,TR333,Orange,2022,35000,,Long Bed,
+I004,Minivan,TR444,Blue,2010,45000,"Security,1000",,
